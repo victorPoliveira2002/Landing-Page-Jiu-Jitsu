@@ -3,9 +3,11 @@
 ## :memo: Descrição
 Pagina de uma landing page com o tema de Jiu Jitsu
 
+![JiuJitsu](https://user-images.githubusercontent.com/72527282/199096463-c0d6e567-a022-4ca3-9150-f59f9ea15caf.png)
+
+
 ## :books: Funcionalidades
 * <b>Pagina inicial Landing Page Jiu-Jitsu;</b>
-
 
 ## :wrench: Tecnologias utilizadas
 * HTML
@@ -27,4 +29,4 @@ Pagina de uma landing page com o tema de Jiu Jitsu
 
 ## :dart: Status do projeto
  * Projeto atualmente FINALIZADO!
- * URL: 
+ * URL: https://victorpoliveira2002.github.io/Landing-Page-Jiu-Jitsu/
